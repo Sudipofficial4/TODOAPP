@@ -15,7 +15,7 @@ class _MainScreenState extends State<MainScreen> {
       drawer: Drawer(child: Text('MENU')),
       appBar: AppBar(
         centerTitle: true,
-        title: Text('Todo App'),
+        title: Text('Todo App'), 
         actions: [
           Padding(
             padding: const EdgeInsets.all(8.0),
